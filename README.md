@@ -3,6 +3,9 @@
 
 
 During my internship at Abhi Controls & Coatings i got a chance to work on Industry level project (Outdoor Feeder Panel). This distribution panel is designed to handle a 125A incoming load and distribute it efficiently to 12 outgoing circuits, each rated at 32A. It is engineered to meet the IPX4 series protection standards, ensuring durability and safety in various environments.
+# FEEDER PANEL AFTER ASSEMBLY
+
+![My Project Logo](f2.png)
 
 
 ## Tech Stack
@@ -24,6 +27,17 @@ During my internship at Abhi Controls & Coatings i got a chance to work on Indus
 
 
 
+# Switchgears:
+- INCOMMER: 125A MCCB (Moulded case circuit breaker) is used as main breaker according to the load calculation & design constrains
+- OUTGOING: 32A KIT KAT Fuse (Re-wireable fuse ) is used for outgoing circuits as protective device
+
+# Enclosure 
+- Enclosure houses all the components of the panel made of **16mm MS SHEET** & **Powder coated with SIMENS GRAY** 
+
+# FEEDER PANEL GA DIAGRAM & SLD
+
+![My Project Logo](f1.png)
+
 
 # Busbar Design and Current Capacity
 ## Main Incomer Busbar
@@ -39,6 +53,10 @@ The outgoing busbars distribute power to the 12 individual 32A circuits and are 
 - Safe Current Density
 - Efficient Distribution
 - Durability:
+ # FEEDER PANEL BLOCK DIAGRAM
+
+![My Project Logo](f3.png)
+  
 
 ## Bypass Busbar
 The bypass busbar, also rated at 125A, facilitates seamless integration with other electrical systems:
@@ -46,6 +64,10 @@ The bypass busbar, also rated at 125A, facilitates seamless integration with oth
 - Easy Connectivity: Allows for straightforward connection and parallel operation with adjacent panels.
 - Enhanced Flexibility: Supports modular expansion and adaptability within complex power distribution networks.
 - Reliable Performance: Designed to handle full load capacity without compromising safety or efficiency.
+
+  # BY PASS POWER FLOW IN BLOCK DIAGRAM
+
+![My Project Logo](f4.png)
 
 
 # Power Bypass
@@ -56,8 +78,8 @@ The bypass busbar, also rated at 125A, facilitates seamless integration with oth
 - Improved Infrastructure Integration: Ensures compatibility within broader electrical systems and networks.
 ## Project outcomes
 
-**Gained Corporate Project Experience** 
+- **Gained Corporate Project Experience** 
 
-**Enhanced Communication Skills**
+- **Enhanced Communication Skills**
 
-**Leveraging CAD and Switchgear Expertise**
+- **Leveraging CAD and Switchgear Expertise**
